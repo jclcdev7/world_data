@@ -1,0 +1,2795 @@
+{
+  "GEC": "list",
+  "countries": [
+    {
+      "ENTITY": "Afghanistan",
+      "GEC": "AF",
+      "ISO_3166_2A": "AF",
+      "ISO_3166_3A": "AFG",
+      "ISO_3166_3N": "004",
+      "STANAG": "AFG",
+      "INTERNET": ".af",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Akrotiri",
+      "GEC": "AX",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Albania",
+      "GEC": "AL",
+      "ISO_3166_2A": "AL",
+      "ISO_3166_3A": "ALB",
+      "ISO_3166_3N": "008",
+      "STANAG": "ALB",
+      "INTERNET": ".al",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Algeria",
+      "GEC": "AG",
+      "ISO_3166_2A": "DZ",
+      "ISO_3166_3A": "DZA",
+      "ISO_3166_3N": "012",
+      "STANAG": "DZA",
+      "INTERNET": ".dz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "American Samoa",
+      "GEC": "AQ",
+      "ISO_3166_2A": "AS",
+      "ISO_3166_3A": "ASM",
+      "ISO_3166_3N": "016",
+      "STANAG": "ASM",
+      "INTERNET": ".as",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Andorra",
+      "GEC": "AN",
+      "ISO_3166_2A": "AD",
+      "ISO_3166_3A": "AND",
+      "ISO_3166_3N": "020",
+      "STANAG": "AND",
+      "INTERNET": ".ad",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Angola",
+      "GEC": "AO",
+      "ISO_3166_2A": "AO",
+      "ISO_3166_3A": "AGO",
+      "ISO_3166_3N": "024",
+      "STANAG": "AGO",
+      "INTERNET": ".ao",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Anguilla",
+      "GEC": "AV",
+      "ISO_3166_2A": "AI",
+      "ISO_3166_3A": "AIA",
+      "ISO_3166_3N": 660,
+      "STANAG": "AIA",
+      "INTERNET": ".ai",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Antarctica",
+      "GEC": "AY",
+      "ISO_3166_2A": "AQ",
+      "ISO_3166_3A": "ATA",
+      "ISO_3166_3N": "010",
+      "STANAG": "ATA",
+      "INTERNET": ".aq",
+      "COMMENT": "ISO defines as the territory south of 60 degrees south latitude"
+    },
+    {
+      "ENTITY": "Antigua and Barbuda",
+      "GEC": "AC",
+      "ISO_3166_2A": "AG",
+      "ISO_3166_3A": "ATG",
+      "ISO_3166_3N": "028",
+      "STANAG": "ATG",
+      "INTERNET": ".ag",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Argentina",
+      "GEC": "AR",
+      "ISO_3166_2A": "AR",
+      "ISO_3166_3A": "ARG",
+      "ISO_3166_3N": "032",
+      "STANAG": "ARG",
+      "INTERNET": ".ar",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Armenia",
+      "GEC": "AM",
+      "ISO_3166_2A": "AM",
+      "ISO_3166_3A": "ARM",
+      "ISO_3166_3N": "051",
+      "STANAG": "ARM",
+      "INTERNET": ".am",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Aruba",
+      "GEC": "AA",
+      "ISO_3166_2A": "AW",
+      "ISO_3166_3A": "ABW",
+      "ISO_3166_3N": 533,
+      "STANAG": "ABW",
+      "INTERNET": ".aw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ashmore and Cartier Islands",
+      "GEC": "AT",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "AUS",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with Australia"
+    },
+    {
+      "ENTITY": "Australia",
+      "GEC": "AS",
+      "ISO_3166_2A": "AU",
+      "ISO_3166_3A": "AUS",
+      "ISO_3166_3N": "036",
+      "STANAG": "AUS",
+      "INTERNET": ".au",
+      "COMMENT": "ISO includes Ashmore and Cartier Islands, Coral Sea Islands"
+    },
+    {
+      "ENTITY": "Austria",
+      "GEC": "AU",
+      "ISO_3166_2A": "AT",
+      "ISO_3166_3A": "AUT",
+      "ISO_3166_3N": "040",
+      "STANAG": "AUT",
+      "INTERNET": ".at",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Azerbaijan",
+      "GEC": "AJ",
+      "ISO_3166_2A": "AZ",
+      "ISO_3166_3A": "AZE",
+      "ISO_3166_3N": "031",
+      "STANAG": "AZE",
+      "INTERNET": ".az",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bahamas, The",
+      "GEC": "BF",
+      "ISO_3166_2A": "BS",
+      "ISO_3166_3A": "BHS",
+      "ISO_3166_3N": "044",
+      "STANAG": "BHS",
+      "INTERNET": ".bs",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bahrain",
+      "GEC": "BA",
+      "ISO_3166_2A": "BH",
+      "ISO_3166_3A": "BHR",
+      "ISO_3166_3N": "048",
+      "STANAG": "BHR",
+      "INTERNET": ".bh",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Baker Island",
+      "GEC": "FQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Bangladesh",
+      "GEC": "BG",
+      "ISO_3166_2A": "BD",
+      "ISO_3166_3A": "BGD",
+      "ISO_3166_3N": "050",
+      "STANAG": "BGD",
+      "INTERNET": ".bd",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Barbados",
+      "GEC": "BB",
+      "ISO_3166_2A": "BB",
+      "ISO_3166_3A": "BRB",
+      "ISO_3166_3N": "052",
+      "STANAG": "BRB",
+      "INTERNET": ".bb",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bassas da India",
+      "GEC": "BS",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+    },
+    {
+      "ENTITY": "Belarus",
+      "GEC": "BO",
+      "ISO_3166_2A": "BY",
+      "ISO_3166_3A": "BLR",
+      "ISO_3166_3N": 112,
+      "STANAG": "BLR",
+      "INTERNET": ".by",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Belgium",
+      "GEC": "BE",
+      "ISO_3166_2A": "BE",
+      "ISO_3166_3A": "BEL",
+      "ISO_3166_3N": "056",
+      "STANAG": "BEL",
+      "INTERNET": ".be",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Belize",
+      "GEC": "BH",
+      "ISO_3166_2A": "BZ",
+      "ISO_3166_3A": "BLZ",
+      "ISO_3166_3N": "084",
+      "STANAG": "BLZ",
+      "INTERNET": ".bz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Benin",
+      "GEC": "BN",
+      "ISO_3166_2A": "BJ",
+      "ISO_3166_3A": "BEN",
+      "ISO_3166_3N": 204,
+      "STANAG": "BEN",
+      "INTERNET": ".bj",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bermuda",
+      "GEC": "BD",
+      "ISO_3166_2A": "BM",
+      "ISO_3166_3A": "BMU",
+      "ISO_3166_3N": "060",
+      "STANAG": "BMU",
+      "INTERNET": ".bm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bhutan",
+      "GEC": "BT",
+      "ISO_3166_2A": "BT",
+      "ISO_3166_3A": "BTN",
+      "ISO_3166_3N": "064",
+      "STANAG": "BTN",
+      "INTERNET": ".bt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bolivia",
+      "GEC": "BL",
+      "ISO_3166_2A": "BO",
+      "ISO_3166_3A": "BOL",
+      "ISO_3166_3N": "068",
+      "STANAG": "BOL",
+      "INTERNET": ".bo",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bosnia and Herzegovina",
+      "GEC": "BK",
+      "ISO_3166_2A": "BA",
+      "ISO_3166_3A": "BIH",
+      "ISO_3166_3N": "070",
+      "STANAG": "BIH",
+      "INTERNET": ".ba",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Botswana",
+      "GEC": "BC",
+      "ISO_3166_2A": "BW",
+      "ISO_3166_3A": "BWA",
+      "ISO_3166_3N": "072",
+      "STANAG": "BWA",
+      "INTERNET": ".bw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bouvet Island",
+      "GEC": "BV",
+      "ISO_3166_2A": "BV",
+      "ISO_3166_3A": "BVT",
+      "ISO_3166_3N": "074",
+      "STANAG": "BVT",
+      "INTERNET": ".bv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Brazil",
+      "GEC": "BR",
+      "ISO_3166_2A": "BR",
+      "ISO_3166_3A": "BRA",
+      "ISO_3166_3N": "076",
+      "STANAG": "BRA",
+      "INTERNET": ".br",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "British Indian Ocean Territory",
+      "GEC": "IO",
+      "ISO_3166_2A": "IO",
+      "ISO_3166_3A": "IOT",
+      "ISO_3166_3N": "086",
+      "STANAG": "IOT",
+      "INTERNET": ".io",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "British Virgin Islands",
+      "GEC": "VI",
+      "ISO_3166_2A": "VG",
+      "ISO_3166_3A": "VGB",
+      "ISO_3166_3N": "092",
+      "STANAG": "VGB",
+      "INTERNET": ".vg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Brunei",
+      "GEC": "BX",
+      "ISO_3166_2A": "BN",
+      "ISO_3166_3A": "BRN",
+      "ISO_3166_3N": "096",
+      "STANAG": "BRN",
+      "INTERNET": ".bn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Bulgaria",
+      "GEC": "BU",
+      "ISO_3166_2A": "BG",
+      "ISO_3166_3A": "BGR",
+      "ISO_3166_3N": 100,
+      "STANAG": "BGR",
+      "INTERNET": ".bg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Burkina Faso",
+      "GEC": "UV",
+      "ISO_3166_2A": "BF",
+      "ISO_3166_3A": "BFA",
+      "ISO_3166_3N": 854,
+      "STANAG": "BFA",
+      "INTERNET": ".bf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Burma",
+      "GEC": "BM",
+      "ISO_3166_2A": "MM",
+      "ISO_3166_3A": "MMR",
+      "ISO_3166_3N": 104,
+      "STANAG": "MMR",
+      "INTERNET": ".mm",
+      "COMMENT": "ISO uses the name Myanmar"
+    },
+    {
+      "ENTITY": "Burundi",
+      "GEC": "BY",
+      "ISO_3166_2A": "BI",
+      "ISO_3166_3A": "BDI",
+      "ISO_3166_3N": 108,
+      "STANAG": "BDI",
+      "INTERNET": ".bi",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cabo Verde",
+      "GEC": "CV",
+      "ISO_3166_2A": "CV",
+      "ISO_3166_3A": "CPV",
+      "ISO_3166_3N": 132,
+      "STANAG": "CPV",
+      "INTERNET": ".cv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cambodia",
+      "GEC": "CB",
+      "ISO_3166_2A": "KH",
+      "ISO_3166_3A": "KHM",
+      "ISO_3166_3N": 116,
+      "STANAG": "KHM",
+      "INTERNET": ".kh",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cameroon",
+      "GEC": "CM",
+      "ISO_3166_2A": "CM",
+      "ISO_3166_3A": "CMR",
+      "ISO_3166_3N": 120,
+      "STANAG": "CMR",
+      "INTERNET": ".cm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Canada",
+      "GEC": "CA",
+      "ISO_3166_2A": "CA",
+      "ISO_3166_3A": "CAN",
+      "ISO_3166_3N": 124,
+      "STANAG": "CAN",
+      "INTERNET": ".ca",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cayman Islands",
+      "GEC": "CJ",
+      "ISO_3166_2A": "KY",
+      "ISO_3166_3A": "CYM",
+      "ISO_3166_3N": 136,
+      "STANAG": "CYM",
+      "INTERNET": ".ky",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Central African Republic",
+      "GEC": "CT",
+      "ISO_3166_2A": "CF",
+      "ISO_3166_3A": "CAF",
+      "ISO_3166_3N": 140,
+      "STANAG": "CAF",
+      "INTERNET": ".cf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Chad",
+      "GEC": "CD",
+      "ISO_3166_2A": "TD",
+      "ISO_3166_3A": "TCD",
+      "ISO_3166_3N": 148,
+      "STANAG": "TCD",
+      "INTERNET": ".td",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Chile",
+      "GEC": "CI",
+      "ISO_3166_2A": "CL",
+      "ISO_3166_3A": "CHL",
+      "ISO_3166_3N": 152,
+      "STANAG": "CHL",
+      "INTERNET": ".cl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "China",
+      "GEC": "CH",
+      "ISO_3166_2A": "CN",
+      "ISO_3166_3A": "CHN",
+      "ISO_3166_3N": 156,
+      "STANAG": "CHN",
+      "INTERNET": ".cn",
+      "COMMENT": "see also Taiwan"
+    },
+    {
+      "ENTITY": "Christmas Island",
+      "GEC": "KT",
+      "ISO_3166_2A": "CX",
+      "ISO_3166_3A": "CXR",
+      "ISO_3166_3N": 162,
+      "STANAG": "CXR",
+      "INTERNET": ".cx",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Clipperton Island",
+      "GEC": "IP",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "FYP",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with France"
+    },
+    {
+      "ENTITY": "Cocos (Keeling) Islands",
+      "GEC": "CK",
+      "ISO_3166_2A": "CC",
+      "ISO_3166_3A": "CCK",
+      "ISO_3166_3N": 166,
+      "STANAG": "AUS",
+      "INTERNET": ".cc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Colombia",
+      "GEC": "CO",
+      "ISO_3166_2A": "CO",
+      "ISO_3166_3A": "COL",
+      "ISO_3166_3N": 170,
+      "STANAG": "COL",
+      "INTERNET": ".co",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Comoros",
+      "GEC": "CN",
+      "ISO_3166_2A": "KM",
+      "ISO_3166_3A": "COM",
+      "ISO_3166_3N": 174,
+      "STANAG": "COM",
+      "INTERNET": ".km",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Congo, Democratic Republic of the",
+      "GEC": "CG",
+      "ISO_3166_2A": "CD",
+      "ISO_3166_3A": "COD",
+      "ISO_3166_3N": 180,
+      "STANAG": "COD",
+      "INTERNET": ".cd",
+      "COMMENT": "formerly Zaire"
+    },
+    {
+      "ENTITY": "Congo, Republic of the",
+      "GEC": "CF",
+      "ISO_3166_2A": "CG",
+      "ISO_3166_3A": "COG",
+      "ISO_3166_3N": 178,
+      "STANAG": "COG",
+      "INTERNET": ".cg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cook Islands",
+      "GEC": "CW",
+      "ISO_3166_2A": "CK",
+      "ISO_3166_3A": "COK",
+      "ISO_3166_3N": 184,
+      "STANAG": "COK",
+      "INTERNET": ".ck",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Coral Sea Islands",
+      "GEC": "CR",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "AUS",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with Australia"
+    },
+    {
+      "ENTITY": "Costa Rica",
+      "GEC": "CS",
+      "ISO_3166_2A": "CR",
+      "ISO_3166_3A": "CRI",
+      "ISO_3166_3N": 188,
+      "STANAG": "CRI",
+      "INTERNET": ".cr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cote d'Ivoire",
+      "GEC": "IV",
+      "ISO_3166_2A": "CI",
+      "ISO_3166_3A": "CIV",
+      "ISO_3166_3N": 384,
+      "STANAG": "CIV",
+      "INTERNET": ".ci",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Croatia",
+      "GEC": "HR",
+      "ISO_3166_2A": "HR",
+      "ISO_3166_3A": "HRV",
+      "ISO_3166_3N": 191,
+      "STANAG": "HRV",
+      "INTERNET": ".hr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cuba",
+      "GEC": "CU",
+      "ISO_3166_2A": "CU",
+      "ISO_3166_3A": "CUB",
+      "ISO_3166_3N": 192,
+      "STANAG": "CUB",
+      "INTERNET": ".cu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Curacao",
+      "GEC": "UC",
+      "ISO_3166_2A": "CW",
+      "ISO_3166_3A": "CUW",
+      "ISO_3166_3N": 531,
+      "STANAG": "-",
+      "INTERNET": ".cw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Cyprus",
+      "GEC": "CY",
+      "ISO_3166_2A": "CY",
+      "ISO_3166_3A": "CYP",
+      "ISO_3166_3N": 196,
+      "STANAG": "CYP",
+      "INTERNET": ".cy",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Czechia",
+      "GEC": "EZ",
+      "ISO_3166_2A": "CZ",
+      "ISO_3166_3A": "CZE",
+      "ISO_3166_3N": 203,
+      "STANAG": "CZE",
+      "INTERNET": ".cz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Denmark",
+      "GEC": "DA",
+      "ISO_3166_2A": "DK",
+      "ISO_3166_3A": "DNK",
+      "ISO_3166_3N": 208,
+      "STANAG": "DNK",
+      "INTERNET": ".dk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Dhekelia",
+      "GEC": "DX",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Djibouti",
+      "GEC": "DJ",
+      "ISO_3166_2A": "DJ",
+      "ISO_3166_3A": "DJI",
+      "ISO_3166_3N": 262,
+      "STANAG": "DJI",
+      "INTERNET": ".dj",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Dominica",
+      "GEC": "DO",
+      "ISO_3166_2A": "DM",
+      "ISO_3166_3A": "DMA",
+      "ISO_3166_3N": 212,
+      "STANAG": "DMA",
+      "INTERNET": ".dm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Dominican Republic",
+      "GEC": "DR",
+      "ISO_3166_2A": "DO",
+      "ISO_3166_3A": "DOM",
+      "ISO_3166_3N": 214,
+      "STANAG": "DOM",
+      "INTERNET": ".do",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ecuador",
+      "GEC": "EC",
+      "ISO_3166_2A": "EC",
+      "ISO_3166_3A": "ECU",
+      "ISO_3166_3N": 218,
+      "STANAG": "ECU",
+      "INTERNET": ".ec",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Egypt",
+      "GEC": "EG",
+      "ISO_3166_2A": "EG",
+      "ISO_3166_3A": "EGY",
+      "ISO_3166_3N": 818,
+      "STANAG": "EGY",
+      "INTERNET": ".eg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "El Salvador",
+      "GEC": "ES",
+      "ISO_3166_2A": "SV",
+      "ISO_3166_3A": "SLV",
+      "ISO_3166_3N": 222,
+      "STANAG": "SLV",
+      "INTERNET": ".sv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Equatorial Guinea",
+      "GEC": "EK",
+      "ISO_3166_2A": "GQ",
+      "ISO_3166_3A": "GNQ",
+      "ISO_3166_3N": 226,
+      "STANAG": "GNQ",
+      "INTERNET": ".gq",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Eritrea",
+      "GEC": "ER",
+      "ISO_3166_2A": "ER",
+      "ISO_3166_3A": "ERI",
+      "ISO_3166_3N": 232,
+      "STANAG": "ERI",
+      "INTERNET": ".er",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Estonia",
+      "GEC": "EN",
+      "ISO_3166_2A": "EE",
+      "ISO_3166_3A": "EST",
+      "ISO_3166_3N": 233,
+      "STANAG": "EST",
+      "INTERNET": ".ee",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ethiopia",
+      "GEC": "ET",
+      "ISO_3166_2A": "ET",
+      "ISO_3166_3A": "ETH",
+      "ISO_3166_3N": 231,
+      "STANAG": "ETH",
+      "INTERNET": ".et",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Europa Island",
+      "GEC": "EU",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+    },
+    {
+      "ENTITY": "Falkland Islands (Islas Malvinas)",
+      "GEC": "FK",
+      "ISO_3166_2A": "FK",
+      "ISO_3166_3A": "FLK",
+      "ISO_3166_3N": 238,
+      "STANAG": "FLK",
+      "INTERNET": ".fk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Faroe Islands",
+      "GEC": "FO",
+      "ISO_3166_2A": "FO",
+      "ISO_3166_3A": "FRO",
+      "ISO_3166_3N": 234,
+      "STANAG": "FRO",
+      "INTERNET": ".fo",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Fiji",
+      "GEC": "FJ",
+      "ISO_3166_2A": "FJ",
+      "ISO_3166_3A": "FJI",
+      "ISO_3166_3N": 242,
+      "STANAG": "FJI",
+      "INTERNET": ".fj",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Finland",
+      "GEC": "FI",
+      "ISO_3166_2A": "FI",
+      "ISO_3166_3A": "FIN",
+      "ISO_3166_3N": 246,
+      "STANAG": "FIN",
+      "INTERNET": ".fi",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "France",
+      "GEC": "FR",
+      "ISO_3166_2A": "FR",
+      "ISO_3166_3A": "FRA",
+      "ISO_3166_3N": 250,
+      "STANAG": "FRA",
+      "INTERNET": ".fr",
+      "COMMENT": "ISO includes metropolitan France along with the dependencies of Clipperton Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Wallis and Futuna"
+    },
+    {
+      "ENTITY": "France, Metropolitan",
+      "GEC": "-",
+      "ISO_3166_2A": "FX",
+      "ISO_3166_3A": "FXX",
+      "ISO_3166_3N": 249,
+      "STANAG": "-",
+      "INTERNET": ".fx",
+      "COMMENT": "ISO limits to the European part of France"
+    },
+    {
+      "ENTITY": "French Guiana",
+      "GEC": "FG",
+      "ISO_3166_2A": "GF",
+      "ISO_3166_3A": "GUF",
+      "ISO_3166_3N": 254,
+      "STANAG": "GUF",
+      "INTERNET": ".gf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "French Polynesia",
+      "GEC": "FP",
+      "ISO_3166_2A": "PF",
+      "ISO_3166_3A": "PYF",
+      "ISO_3166_3N": 258,
+      "STANAG": "PYF",
+      "INTERNET": ".pf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "French Southern and Antarctic Lands",
+      "GEC": "FS",
+      "ISO_3166_2A": "TF",
+      "ISO_3166_3A": "ATF",
+      "ISO_3166_3N": 260,
+      "STANAG": "ATF",
+      "INTERNET": ".tf",
+      "COMMENT": "FIPS 10-4 does not include the French-claimed portion of Antarctica (Terre Adelie)"
+    },
+    {
+      "ENTITY": "Gabon",
+      "GEC": "GB",
+      "ISO_3166_2A": "GA",
+      "ISO_3166_3A": "GAB",
+      "ISO_3166_3N": 266,
+      "STANAG": "GAB",
+      "INTERNET": ".ga",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Gambia, The",
+      "GEC": "GA",
+      "ISO_3166_2A": "GM",
+      "ISO_3166_3A": "GMB",
+      "ISO_3166_3N": 270,
+      "STANAG": "GMB",
+      "INTERNET": ".gm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Gaza Strip",
+      "GEC": "GZ",
+      "ISO_3166_2A": "PS",
+      "ISO_3166_3A": "PSE",
+      "ISO_3166_3N": 275,
+      "STANAG": "PSE",
+      "INTERNET": ".ps",
+      "COMMENT": "ISO identifies as Occupied Palestinian Territory"
+    },
+    {
+      "ENTITY": "Georgia",
+      "GEC": "GG",
+      "ISO_3166_2A": "GE",
+      "ISO_3166_3A": "GEO",
+      "ISO_3166_3N": 268,
+      "STANAG": "GEO",
+      "INTERNET": ".ge",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Germany",
+      "GEC": "GM",
+      "ISO_3166_2A": "DE",
+      "ISO_3166_3A": "DEU",
+      "ISO_3166_3N": 276,
+      "STANAG": "DEU",
+      "INTERNET": ".de",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ghana",
+      "GEC": "GH",
+      "ISO_3166_2A": "GH",
+      "ISO_3166_3A": "GHA",
+      "ISO_3166_3N": 288,
+      "STANAG": "GHA",
+      "INTERNET": ".gh",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Gibraltar",
+      "GEC": "GI",
+      "ISO_3166_2A": "GI",
+      "ISO_3166_3A": "GIB",
+      "ISO_3166_3N": 292,
+      "STANAG": "GIB",
+      "INTERNET": ".gi",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Glorioso Islands",
+      "GEC": "GO",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+    },
+    {
+      "ENTITY": "Greece",
+      "GEC": "GR",
+      "ISO_3166_2A": "GR",
+      "ISO_3166_3A": "GRC",
+      "ISO_3166_3N": 300,
+      "STANAG": "GRC",
+      "INTERNET": ".gr",
+      "COMMENT": "For its internal communications, the European Union recommends the use of the code EL in lieu of the ISO 3166-2 code of GR"
+    },
+    {
+      "ENTITY": "Greenland",
+      "GEC": "GL",
+      "ISO_3166_2A": "GL",
+      "ISO_3166_3A": "GRL",
+      "ISO_3166_3N": 304,
+      "STANAG": "GRL",
+      "INTERNET": ".gl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Grenada",
+      "GEC": "GJ",
+      "ISO_3166_2A": "GD",
+      "ISO_3166_3A": "GRD",
+      "ISO_3166_3N": 308,
+      "STANAG": "GRD",
+      "INTERNET": ".gd",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guadeloupe",
+      "GEC": "GP",
+      "ISO_3166_2A": "GP",
+      "ISO_3166_3A": "GLP",
+      "ISO_3166_3N": 312,
+      "STANAG": "GLP",
+      "INTERNET": ".gp",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guam",
+      "GEC": "GQ",
+      "ISO_3166_2A": "GU",
+      "ISO_3166_3A": "GUM",
+      "ISO_3166_3N": 316,
+      "STANAG": "GUM",
+      "INTERNET": ".gu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guatemala",
+      "GEC": "GT",
+      "ISO_3166_2A": "GT",
+      "ISO_3166_3A": "GTM",
+      "ISO_3166_3N": 320,
+      "STANAG": "GTM",
+      "INTERNET": ".gt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guernsey",
+      "GEC": "GK",
+      "ISO_3166_2A": "GG",
+      "ISO_3166_3A": "GGY",
+      "ISO_3166_3N": 831,
+      "STANAG": "UK",
+      "INTERNET": ".gg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guinea",
+      "GEC": "GV",
+      "ISO_3166_2A": "GN",
+      "ISO_3166_3A": "GIN",
+      "ISO_3166_3N": 324,
+      "STANAG": "GIN",
+      "INTERNET": ".gn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guinea-Bissau",
+      "GEC": "PU",
+      "ISO_3166_2A": "GW",
+      "ISO_3166_3A": "GNB",
+      "ISO_3166_3N": 624,
+      "STANAG": "GNB",
+      "INTERNET": ".gw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Guyana",
+      "GEC": "GY",
+      "ISO_3166_2A": "GY",
+      "ISO_3166_3A": "GUY",
+      "ISO_3166_3N": 328,
+      "STANAG": "GUY",
+      "INTERNET": ".gy",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Haiti",
+      "GEC": "HA",
+      "ISO_3166_2A": "HT",
+      "ISO_3166_3A": "HTI",
+      "ISO_3166_3N": 332,
+      "STANAG": "HTI",
+      "INTERNET": ".ht",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Heard Island and McDonald Islands",
+      "GEC": "HM",
+      "ISO_3166_2A": "HM",
+      "ISO_3166_3A": "HMD",
+      "ISO_3166_3N": 334,
+      "STANAG": "HMD",
+      "INTERNET": ".hm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Holy See (Vatican City)",
+      "GEC": "VT",
+      "ISO_3166_2A": "VA",
+      "ISO_3166_3A": "VAT",
+      "ISO_3166_3N": 336,
+      "STANAG": "VAT",
+      "INTERNET": ".va",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Honduras",
+      "GEC": "HO",
+      "ISO_3166_2A": "HN",
+      "ISO_3166_3A": "HND",
+      "ISO_3166_3N": 340,
+      "STANAG": "HND",
+      "INTERNET": ".hn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Hong Kong",
+      "GEC": "HK",
+      "ISO_3166_2A": "HK",
+      "ISO_3166_3A": "HKG",
+      "ISO_3166_3N": 344,
+      "STANAG": "HKG",
+      "INTERNET": ".hk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Howland Island",
+      "GEC": "HQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Hungary",
+      "GEC": "HU",
+      "ISO_3166_2A": "HU",
+      "ISO_3166_3A": "HUN",
+      "ISO_3166_3N": 348,
+      "STANAG": "HUN",
+      "INTERNET": ".hu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Iceland",
+      "GEC": "IC",
+      "ISO_3166_2A": "IS",
+      "ISO_3166_3A": "ISL",
+      "ISO_3166_3N": 352,
+      "STANAG": "ISL",
+      "INTERNET": ".is",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "India",
+      "GEC": "IN",
+      "ISO_3166_2A": "IN",
+      "ISO_3166_3A": "IND",
+      "ISO_3166_3N": 356,
+      "STANAG": "IND",
+      "INTERNET": ".in",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Indonesia",
+      "GEC": "ID",
+      "ISO_3166_2A": "ID",
+      "ISO_3166_3A": "IDN",
+      "ISO_3166_3N": 360,
+      "STANAG": "IDN",
+      "INTERNET": ".id",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Iran",
+      "GEC": "IR",
+      "ISO_3166_2A": "IR",
+      "ISO_3166_3A": "IRN",
+      "ISO_3166_3N": 364,
+      "STANAG": "IRN",
+      "INTERNET": ".ir",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Iraq",
+      "GEC": "IZ",
+      "ISO_3166_2A": "IQ",
+      "ISO_3166_3A": "IRQ",
+      "ISO_3166_3N": 368,
+      "STANAG": "IRQ",
+      "INTERNET": ".iq",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ireland",
+      "GEC": "EI",
+      "ISO_3166_2A": "IE",
+      "ISO_3166_3A": "IRL",
+      "ISO_3166_3N": 372,
+      "STANAG": "IRL",
+      "INTERNET": ".ie",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Isle of Man",
+      "GEC": "IM",
+      "ISO_3166_2A": "IM",
+      "ISO_3166_3A": "IMN",
+      "ISO_3166_3N": 833,
+      "STANAG": "UK",
+      "INTERNET": ".im",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Israel",
+      "GEC": "IS",
+      "ISO_3166_2A": "IL",
+      "ISO_3166_3A": "ISR",
+      "ISO_3166_3N": 376,
+      "STANAG": "ISR",
+      "INTERNET": ".il",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Italy",
+      "GEC": "IT",
+      "ISO_3166_2A": "IT",
+      "ISO_3166_3A": "ITA",
+      "ISO_3166_3N": 380,
+      "STANAG": "ITA",
+      "INTERNET": ".it",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Jamaica",
+      "GEC": "JM",
+      "ISO_3166_2A": "JM",
+      "ISO_3166_3A": "JAM",
+      "ISO_3166_3N": 388,
+      "STANAG": "JAM",
+      "INTERNET": ".jm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Jan Mayen",
+      "GEC": "JN",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "SJM",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with Svalbard"
+    },
+    {
+      "ENTITY": "Japan",
+      "GEC": "JA",
+      "ISO_3166_2A": "JP",
+      "ISO_3166_3A": "JPN",
+      "ISO_3166_3N": 392,
+      "STANAG": "JPN",
+      "INTERNET": ".jp",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Jarvis Island",
+      "GEC": "DQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Jersey",
+      "GEC": "JE",
+      "ISO_3166_2A": "JE",
+      "ISO_3166_3A": "JEY",
+      "ISO_3166_3N": 832,
+      "STANAG": "UK",
+      "INTERNET": ".je",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Johnston Atoll",
+      "GEC": "JQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Jordan",
+      "GEC": "JO",
+      "ISO_3166_2A": "JO",
+      "ISO_3166_3A": "JOR",
+      "ISO_3166_3N": 400,
+      "STANAG": "JOR",
+      "INTERNET": ".jo",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Juan de Nova Island",
+      "GEC": "JU",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+    },
+    {
+      "ENTITY": "Kazakhstan",
+      "GEC": "KZ",
+      "ISO_3166_2A": "KZ",
+      "ISO_3166_3A": "KAZ",
+      "ISO_3166_3N": 398,
+      "STANAG": "KAZ",
+      "INTERNET": ".kz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Kenya",
+      "GEC": "KE",
+      "ISO_3166_2A": "KE",
+      "ISO_3166_3A": "KEN",
+      "ISO_3166_3N": 404,
+      "STANAG": "KEN",
+      "INTERNET": ".ke",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Kingman Reef",
+      "GEC": "KQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Kiribati",
+      "GEC": "KR",
+      "ISO_3166_2A": "KI",
+      "ISO_3166_3A": "KIR",
+      "ISO_3166_3N": 296,
+      "STANAG": "KIR",
+      "INTERNET": ".ki",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Korea, North",
+      "GEC": "KN",
+      "ISO_3166_2A": "KP",
+      "ISO_3166_3A": "PRK",
+      "ISO_3166_3N": 408,
+      "STANAG": "PRK",
+      "INTERNET": ".kp",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Korea, South",
+      "GEC": "KS",
+      "ISO_3166_2A": "KR",
+      "ISO_3166_3A": "KOR",
+      "ISO_3166_3N": 410,
+      "STANAG": "KOR",
+      "INTERNET": ".kr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Kosovo",
+      "GEC": "KV",
+      "ISO_3166_2A": "XK",
+      "ISO_3166_3A": "XKS",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "XK and XKS are ISO 3166 user assigned codes; ISO 3166 Maintenace Authority has not assigned codes"
+    },
+    {
+      "ENTITY": "Kuwait",
+      "GEC": "KU",
+      "ISO_3166_2A": "KW",
+      "ISO_3166_3A": "KWT",
+      "ISO_3166_3N": 414,
+      "STANAG": "KWT",
+      "INTERNET": ".kw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Kyrgyzstan",
+      "GEC": "KG",
+      "ISO_3166_2A": "KG",
+      "ISO_3166_3A": "KGZ",
+      "ISO_3166_3N": 417,
+      "STANAG": "KGZ",
+      "INTERNET": ".kg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Laos",
+      "GEC": "LA",
+      "ISO_3166_2A": "LA",
+      "ISO_3166_3A": "LAO",
+      "ISO_3166_3N": 418,
+      "STANAG": "LAO",
+      "INTERNET": ".la",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Latvia",
+      "GEC": "LG",
+      "ISO_3166_2A": "LV",
+      "ISO_3166_3A": "LVA",
+      "ISO_3166_3N": 428,
+      "STANAG": "LVA",
+      "INTERNET": ".lv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Lebanon",
+      "GEC": "LE",
+      "ISO_3166_2A": "LB",
+      "ISO_3166_3A": "LBN",
+      "ISO_3166_3N": 422,
+      "STANAG": "LBN",
+      "INTERNET": ".lb",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Lesotho",
+      "GEC": "LT",
+      "ISO_3166_2A": "LS",
+      "ISO_3166_3A": "LSO",
+      "ISO_3166_3N": 426,
+      "STANAG": "LSO",
+      "INTERNET": ".ls",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Liberia",
+      "GEC": "LI",
+      "ISO_3166_2A": "LR",
+      "ISO_3166_3A": "LBR",
+      "ISO_3166_3N": 430,
+      "STANAG": "LBR",
+      "INTERNET": ".lr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Libya",
+      "GEC": "LY",
+      "ISO_3166_2A": "LY",
+      "ISO_3166_3A": "LBY",
+      "ISO_3166_3N": 434,
+      "STANAG": "LBY",
+      "INTERNET": ".ly",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Liechtenstein",
+      "GEC": "LS",
+      "ISO_3166_2A": "LI",
+      "ISO_3166_3A": "LIE",
+      "ISO_3166_3N": 438,
+      "STANAG": "LIE",
+      "INTERNET": ".li",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Lithuania",
+      "GEC": "LH",
+      "ISO_3166_2A": "LT",
+      "ISO_3166_3A": "LTU",
+      "ISO_3166_3N": 440,
+      "STANAG": "LTU",
+      "INTERNET": ".lt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Luxembourg",
+      "GEC": "LU",
+      "ISO_3166_2A": "LU",
+      "ISO_3166_3A": "LUX",
+      "ISO_3166_3N": 442,
+      "STANAG": "LUX",
+      "INTERNET": ".lu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Macau",
+      "GEC": "MC",
+      "ISO_3166_2A": "MO",
+      "ISO_3166_3A": "MAC",
+      "ISO_3166_3N": 446,
+      "STANAG": "MAC",
+      "INTERNET": ".mo",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Macedonia",
+      "GEC": "MK",
+      "ISO_3166_2A": "MK",
+      "ISO_3166_3A": "MKD",
+      "ISO_3166_3N": 807,
+      "STANAG": "FYR",
+      "INTERNET": ".mk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Madagascar",
+      "GEC": "MA",
+      "ISO_3166_2A": "MG",
+      "ISO_3166_3A": "MDG",
+      "ISO_3166_3N": 450,
+      "STANAG": "MDG",
+      "INTERNET": ".mg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Malawi",
+      "GEC": "MI",
+      "ISO_3166_2A": "MW",
+      "ISO_3166_3A": "MWI",
+      "ISO_3166_3N": 454,
+      "STANAG": "MWI",
+      "INTERNET": ".mw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Malaysia",
+      "GEC": "MY",
+      "ISO_3166_2A": "MY",
+      "ISO_3166_3A": "MYS",
+      "ISO_3166_3N": 458,
+      "STANAG": "MYS",
+      "INTERNET": ".my",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Maldives",
+      "GEC": "MV",
+      "ISO_3166_2A": "MV",
+      "ISO_3166_3A": "MDV",
+      "ISO_3166_3N": 462,
+      "STANAG": "MDV",
+      "INTERNET": ".mv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mali",
+      "GEC": "ML",
+      "ISO_3166_2A": "ML",
+      "ISO_3166_3A": "MLI",
+      "ISO_3166_3N": 466,
+      "STANAG": "MLI",
+      "INTERNET": ".ml",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Malta",
+      "GEC": "MT",
+      "ISO_3166_2A": "MT",
+      "ISO_3166_3A": "MLT",
+      "ISO_3166_3N": 470,
+      "STANAG": "MLT",
+      "INTERNET": ".mt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Marshall Islands",
+      "GEC": "RM",
+      "ISO_3166_2A": "MH",
+      "ISO_3166_3A": "MHL",
+      "ISO_3166_3N": 584,
+      "STANAG": "MHL",
+      "INTERNET": ".mh",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Martinique",
+      "GEC": "MB",
+      "ISO_3166_2A": "MQ",
+      "ISO_3166_3A": "MTQ",
+      "ISO_3166_3N": 474,
+      "STANAG": "MTQ",
+      "INTERNET": ".mq",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mauritania",
+      "GEC": "MR",
+      "ISO_3166_2A": "MR",
+      "ISO_3166_3A": "MRT",
+      "ISO_3166_3N": 478,
+      "STANAG": "MRT",
+      "INTERNET": ".mr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mauritius",
+      "GEC": "MP",
+      "ISO_3166_2A": "MU",
+      "ISO_3166_3A": "MUS",
+      "ISO_3166_3N": 480,
+      "STANAG": "MUS",
+      "INTERNET": ".mu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mayotte",
+      "GEC": "MF",
+      "ISO_3166_2A": "YT",
+      "ISO_3166_3A": "MYT",
+      "ISO_3166_3N": 175,
+      "STANAG": "FRA",
+      "INTERNET": ".yt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mexico",
+      "GEC": "MX",
+      "ISO_3166_2A": "MX",
+      "ISO_3166_3A": "MEX",
+      "ISO_3166_3N": 484,
+      "STANAG": "MEX",
+      "INTERNET": ".mx",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Micronesia, Federated States of",
+      "GEC": "FM",
+      "ISO_3166_2A": "FM",
+      "ISO_3166_3A": "FSM",
+      "ISO_3166_3N": 583,
+      "STANAG": "FSM",
+      "INTERNET": ".fm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Midway Islands",
+      "GEC": "MQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Moldova",
+      "GEC": "MD",
+      "ISO_3166_2A": "MD",
+      "ISO_3166_3A": "MDA",
+      "ISO_3166_3N": 498,
+      "STANAG": "MDA",
+      "INTERNET": ".md",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Monaco",
+      "GEC": "MN",
+      "ISO_3166_2A": "MC",
+      "ISO_3166_3A": "MCO",
+      "ISO_3166_3N": 492,
+      "STANAG": "MCO",
+      "INTERNET": ".mc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mongolia",
+      "GEC": "MG",
+      "ISO_3166_2A": "MN",
+      "ISO_3166_3A": "MNG",
+      "ISO_3166_3N": 496,
+      "STANAG": "MNG",
+      "INTERNET": ".mn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Montenegro",
+      "GEC": "MJ",
+      "ISO_3166_2A": "ME",
+      "ISO_3166_3A": "MNE",
+      "ISO_3166_3N": 499,
+      "STANAG": "MNE",
+      "INTERNET": ".me",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Montserrat",
+      "GEC": "MH",
+      "ISO_3166_2A": "MS",
+      "ISO_3166_3A": "MSR",
+      "ISO_3166_3N": 500,
+      "STANAG": "MSR",
+      "INTERNET": ".ms",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Morocco",
+      "GEC": "MO",
+      "ISO_3166_2A": "MA",
+      "ISO_3166_3A": "MAR",
+      "ISO_3166_3N": 504,
+      "STANAG": "MAR",
+      "INTERNET": ".ma",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Mozambique",
+      "GEC": "MZ",
+      "ISO_3166_2A": "MZ",
+      "ISO_3166_3A": "MOZ",
+      "ISO_3166_3N": 508,
+      "STANAG": "MOZ",
+      "INTERNET": ".mz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Myanmar",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "see Burma"
+    },
+    {
+      "ENTITY": "Namibia",
+      "GEC": "WA",
+      "ISO_3166_2A": "NA",
+      "ISO_3166_3A": "NAM",
+      "ISO_3166_3N": 516,
+      "STANAG": "NAM",
+      "INTERNET": ".na",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Nauru",
+      "GEC": "NR",
+      "ISO_3166_2A": "NR",
+      "ISO_3166_3A": "NRU",
+      "ISO_3166_3N": 520,
+      "STANAG": "NRU",
+      "INTERNET": ".nr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Navassa Island",
+      "GEC": "BQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Nepal",
+      "GEC": "NP",
+      "ISO_3166_2A": "NP",
+      "ISO_3166_3A": "NPL",
+      "ISO_3166_3N": 524,
+      "STANAG": "NPL",
+      "INTERNET": ".np",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Netherlands",
+      "GEC": "NL",
+      "ISO_3166_2A": "NL",
+      "ISO_3166_3A": "NLD",
+      "ISO_3166_3N": 528,
+      "STANAG": "NLD",
+      "INTERNET": ".nl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Netherlands Antilles",
+      "GEC": "NT",
+      "ISO_3166_2A": "",
+      "ISO_3166_3A": "",
+      "ISO_3166_3N": "",
+      "STANAG": "ANT",
+      "INTERNET": ".an",
+      "COMMENT": "disestablished in October 2010 this entity no longer exists; ISO deleted the codes in December 2010"
+    },
+    {
+      "ENTITY": "New Caledonia",
+      "GEC": "NC",
+      "ISO_3166_2A": "NC",
+      "ISO_3166_3A": "NCL",
+      "ISO_3166_3N": 540,
+      "STANAG": "NCL",
+      "INTERNET": ".nc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "New Zealand",
+      "GEC": "NZ",
+      "ISO_3166_2A": "NZ",
+      "ISO_3166_3A": "NZL",
+      "ISO_3166_3N": 554,
+      "STANAG": "NZL",
+      "INTERNET": ".nz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Nicaragua",
+      "GEC": "NU",
+      "ISO_3166_2A": "NI",
+      "ISO_3166_3A": "NIC",
+      "ISO_3166_3N": 558,
+      "STANAG": "NIC",
+      "INTERNET": ".ni",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Niger",
+      "GEC": "NG",
+      "ISO_3166_2A": "NE",
+      "ISO_3166_3A": "NER",
+      "ISO_3166_3N": 562,
+      "STANAG": "NER",
+      "INTERNET": ".ne",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Nigeria",
+      "GEC": "NI",
+      "ISO_3166_2A": "NG",
+      "ISO_3166_3A": "NGA",
+      "ISO_3166_3N": 566,
+      "STANAG": "NGA",
+      "INTERNET": ".ng",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Niue",
+      "GEC": "NE",
+      "ISO_3166_2A": "NU",
+      "ISO_3166_3A": "NIU",
+      "ISO_3166_3N": 570,
+      "STANAG": "NIU",
+      "INTERNET": ".nu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Norfolk Island",
+      "GEC": "NF",
+      "ISO_3166_2A": "NF",
+      "ISO_3166_3A": "NFK",
+      "ISO_3166_3N": 574,
+      "STANAG": "NFK",
+      "INTERNET": ".nf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Northern Mariana Islands",
+      "GEC": "CQ",
+      "ISO_3166_2A": "MP",
+      "ISO_3166_3A": "MNP",
+      "ISO_3166_3N": 580,
+      "STANAG": "MNP",
+      "INTERNET": ".mp",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Norway",
+      "GEC": "NO",
+      "ISO_3166_2A": "NO",
+      "ISO_3166_3A": "NOR",
+      "ISO_3166_3N": 578,
+      "STANAG": "NOR",
+      "INTERNET": ".no",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Oman",
+      "GEC": "MU",
+      "ISO_3166_2A": "OM",
+      "ISO_3166_3A": "OMN",
+      "ISO_3166_3N": 512,
+      "STANAG": "OMN",
+      "INTERNET": ".om",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Pakistan",
+      "GEC": "PK",
+      "ISO_3166_2A": "PK",
+      "ISO_3166_3A": "PAK",
+      "ISO_3166_3N": 586,
+      "STANAG": "PAK",
+      "INTERNET": ".pk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Palau",
+      "GEC": "PS",
+      "ISO_3166_2A": "PW",
+      "ISO_3166_3A": "PLW",
+      "ISO_3166_3N": 585,
+      "STANAG": "PLW",
+      "INTERNET": ".pw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Palmyra Atoll",
+      "GEC": "LQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Panama",
+      "GEC": "PM",
+      "ISO_3166_2A": "PA",
+      "ISO_3166_3A": "PAN",
+      "ISO_3166_3N": 591,
+      "STANAG": "PAN",
+      "INTERNET": ".pa",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Papua New Guinea",
+      "GEC": "PP",
+      "ISO_3166_2A": "PG",
+      "ISO_3166_3A": "PNG",
+      "ISO_3166_3N": 598,
+      "STANAG": "PNG",
+      "INTERNET": ".pg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Paracel Islands",
+      "GEC": "PF",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Paraguay",
+      "GEC": "PA",
+      "ISO_3166_2A": "PY",
+      "ISO_3166_3A": "PRY",
+      "ISO_3166_3N": 600,
+      "STANAG": "PRY",
+      "INTERNET": ".py",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Peru",
+      "GEC": "PE",
+      "ISO_3166_2A": "PE",
+      "ISO_3166_3A": "PER",
+      "ISO_3166_3N": 604,
+      "STANAG": "PER",
+      "INTERNET": ".pe",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Philippines",
+      "GEC": "RP",
+      "ISO_3166_2A": "PH",
+      "ISO_3166_3A": "PHL",
+      "ISO_3166_3N": 608,
+      "STANAG": "PHL",
+      "INTERNET": ".ph",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Pitcairn Islands",
+      "GEC": "PC",
+      "ISO_3166_2A": "PN",
+      "ISO_3166_3A": "PCN",
+      "ISO_3166_3N": 612,
+      "STANAG": "PCN",
+      "INTERNET": ".pn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Poland",
+      "GEC": "PL",
+      "ISO_3166_2A": "PL",
+      "ISO_3166_3A": "POL",
+      "ISO_3166_3N": 616,
+      "STANAG": "POL",
+      "INTERNET": ".pl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Portugal",
+      "GEC": "PO",
+      "ISO_3166_2A": "PT",
+      "ISO_3166_3A": "PRT",
+      "ISO_3166_3N": 620,
+      "STANAG": "PRT",
+      "INTERNET": ".pt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Puerto Rico",
+      "GEC": "RQ",
+      "ISO_3166_2A": "PR",
+      "ISO_3166_3A": "PRI",
+      "ISO_3166_3N": 630,
+      "STANAG": "PRI",
+      "INTERNET": ".pr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Qatar",
+      "GEC": "QA",
+      "ISO_3166_2A": "QA",
+      "ISO_3166_3A": "QAT",
+      "ISO_3166_3N": 634,
+      "STANAG": "QAT",
+      "INTERNET": ".qa",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Reunion",
+      "GEC": "RE",
+      "ISO_3166_2A": "RE",
+      "ISO_3166_3A": "REU",
+      "ISO_3166_3N": 638,
+      "STANAG": "REU",
+      "INTERNET": ".re",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Romania",
+      "GEC": "RO",
+      "ISO_3166_2A": "RO",
+      "ISO_3166_3A": "ROU",
+      "ISO_3166_3N": 642,
+      "STANAG": "ROU",
+      "INTERNET": ".ro",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Russia",
+      "GEC": "RS",
+      "ISO_3166_2A": "RU",
+      "ISO_3166_3A": "RUS",
+      "ISO_3166_3N": 643,
+      "STANAG": "RUS",
+      "INTERNET": ".ru",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Rwanda",
+      "GEC": "RW",
+      "ISO_3166_2A": "RW",
+      "ISO_3166_3A": "RWA",
+      "ISO_3166_3N": 646,
+      "STANAG": "RWA",
+      "INTERNET": ".rw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Saint Barthelemy",
+      "GEC": "TB",
+      "ISO_3166_2A": "BL",
+      "ISO_3166_3A": "BLM",
+      "ISO_3166_3N": 652,
+      "STANAG": "-",
+      "INTERNET": ".bl",
+      "COMMENT": "ccTLD .fr and .gp may also be used"
+    },
+    {
+      "ENTITY": "Saint Helena, Ascension, and Tristan da Cunha",
+      "GEC": "SH",
+      "ISO_3166_2A": "SH",
+      "ISO_3166_3A": "SHN",
+      "ISO_3166_3N": 654,
+      "STANAG": "SHN",
+      "INTERNET": ".sh",
+      "COMMENT": "includes Saint Helena Island, Ascension Island, and the Tristan da Cunha archipelago"
+    },
+    {
+      "ENTITY": "Saint Kitts and Nevis",
+      "GEC": "SC",
+      "ISO_3166_2A": "KN",
+      "ISO_3166_3A": "KNA",
+      "ISO_3166_3N": 659,
+      "STANAG": "KNA",
+      "INTERNET": ".kn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Saint Lucia",
+      "GEC": "ST",
+      "ISO_3166_2A": "LC",
+      "ISO_3166_3A": "LCA",
+      "ISO_3166_3N": 662,
+      "STANAG": "LCA",
+      "INTERNET": ".lc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Saint Martin",
+      "GEC": "RN",
+      "ISO_3166_2A": "MF",
+      "ISO_3166_3A": "MAF",
+      "ISO_3166_3N": 663,
+      "STANAG": "-",
+      "INTERNET": ".mf",
+      "COMMENT": "ccTLD .fr and .gp may also be used"
+    },
+    {
+      "ENTITY": "Saint Pierre and Miquelon",
+      "GEC": "SB",
+      "ISO_3166_2A": "PM",
+      "ISO_3166_3A": "SPM",
+      "ISO_3166_3N": 666,
+      "STANAG": "SPM",
+      "INTERNET": ".pm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Saint Vincent and the Grenadines",
+      "GEC": "VC",
+      "ISO_3166_2A": "VC",
+      "ISO_3166_3A": "VCT",
+      "ISO_3166_3N": 670,
+      "STANAG": "VCT",
+      "INTERNET": ".vc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Samoa",
+      "GEC": "WS",
+      "ISO_3166_2A": "WS",
+      "ISO_3166_3A": "WSM",
+      "ISO_3166_3N": 882,
+      "STANAG": "WSM",
+      "INTERNET": ".ws",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "San Marino",
+      "GEC": "SM",
+      "ISO_3166_2A": "SM",
+      "ISO_3166_3A": "SMR",
+      "ISO_3166_3N": 674,
+      "STANAG": "SMR",
+      "INTERNET": ".sm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sao Tome and Principe",
+      "GEC": "TP",
+      "ISO_3166_2A": "ST",
+      "ISO_3166_3A": "STP",
+      "ISO_3166_3N": 678,
+      "STANAG": "STP",
+      "INTERNET": ".st",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Saudi Arabia",
+      "GEC": "SA",
+      "ISO_3166_2A": "SA",
+      "ISO_3166_3A": "SAU",
+      "ISO_3166_3N": 682,
+      "STANAG": "SAU",
+      "INTERNET": ".sa",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Senegal",
+      "GEC": "SG",
+      "ISO_3166_2A": "SN",
+      "ISO_3166_3A": "SEN",
+      "ISO_3166_3N": 686,
+      "STANAG": "SEN",
+      "INTERNET": ".sn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Serbia",
+      "GEC": "RI",
+      "ISO_3166_2A": "RS",
+      "ISO_3166_3A": "SRB",
+      "ISO_3166_3N": 688,
+      "STANAG": "-",
+      "INTERNET": ".rs",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Seychelles",
+      "GEC": "SE",
+      "ISO_3166_2A": "SC",
+      "ISO_3166_3A": "SYC",
+      "ISO_3166_3N": 690,
+      "STANAG": "SYC",
+      "INTERNET": ".sc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sierra Leone",
+      "GEC": "SL",
+      "ISO_3166_2A": "SL",
+      "ISO_3166_3A": "SLE",
+      "ISO_3166_3N": 694,
+      "STANAG": "SLE",
+      "INTERNET": ".sl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Singapore",
+      "GEC": "SN",
+      "ISO_3166_2A": "SG",
+      "ISO_3166_3A": "SGP",
+      "ISO_3166_3N": 702,
+      "STANAG": "SGP",
+      "INTERNET": ".sg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sint Maarten",
+      "GEC": "NN",
+      "ISO_3166_2A": "SX",
+      "ISO_3166_3A": "SXM",
+      "ISO_3166_3N": 534,
+      "STANAG": "-",
+      "INTERNET": ".sx",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Slovakia",
+      "GEC": "LO",
+      "ISO_3166_2A": "SK",
+      "ISO_3166_3A": "SVK",
+      "ISO_3166_3N": 703,
+      "STANAG": "SVK",
+      "INTERNET": ".sk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Slovenia",
+      "GEC": "SI",
+      "ISO_3166_2A": "SI",
+      "ISO_3166_3A": "SVN",
+      "ISO_3166_3N": 705,
+      "STANAG": "SVN",
+      "INTERNET": ".si",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Solomon Islands",
+      "GEC": "BP",
+      "ISO_3166_2A": "SB",
+      "ISO_3166_3A": "SLB",
+      "ISO_3166_3N": "090",
+      "STANAG": "SLB",
+      "INTERNET": ".sb",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Somalia",
+      "GEC": "SO",
+      "ISO_3166_2A": "SO",
+      "ISO_3166_3A": "SOM",
+      "ISO_3166_3N": 706,
+      "STANAG": "SOM",
+      "INTERNET": ".so",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "South Africa",
+      "GEC": "SF",
+      "ISO_3166_2A": "ZA",
+      "ISO_3166_3A": "ZAF",
+      "ISO_3166_3N": 710,
+      "STANAG": "ZAF",
+      "INTERNET": ".za",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "South Georgia and the Islands",
+      "GEC": "SX",
+      "ISO_3166_2A": "GS",
+      "ISO_3166_3A": "SGS",
+      "ISO_3166_3N": 239,
+      "STANAG": "SGS",
+      "INTERNET": ".gs",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "South Sudan",
+      "GEC": "OD",
+      "ISO_3166_2A": "SS",
+      "ISO_3166_3A": "SSD",
+      "ISO_3166_3N": 728,
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone"
+    },
+    {
+      "ENTITY": "Spain",
+      "GEC": "SP",
+      "ISO_3166_2A": "ES",
+      "ISO_3166_3A": "ESP",
+      "ISO_3166_3N": 724,
+      "STANAG": "ESP",
+      "INTERNET": ".es",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Spratly Islands",
+      "GEC": "PG",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sri Lanka",
+      "GEC": "CE",
+      "ISO_3166_2A": "LK",
+      "ISO_3166_3A": "LKA",
+      "ISO_3166_3N": 144,
+      "STANAG": "LKA",
+      "INTERNET": ".lk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sudan",
+      "GEC": "SU",
+      "ISO_3166_2A": "SD",
+      "ISO_3166_3A": "SDN",
+      "ISO_3166_3N": 729,
+      "STANAG": "SDN",
+      "INTERNET": ".sd",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Suriname",
+      "GEC": "NS",
+      "ISO_3166_2A": "SR",
+      "ISO_3166_3A": "SUR",
+      "ISO_3166_3N": 740,
+      "STANAG": "SUR",
+      "INTERNET": ".sr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Svalbard",
+      "GEC": "SV",
+      "ISO_3166_2A": "SJ",
+      "ISO_3166_3A": "SJM",
+      "ISO_3166_3N": 744,
+      "STANAG": "SJM",
+      "INTERNET": ".sj",
+      "COMMENT": "ISO includes Jan Mayen"
+    },
+    {
+      "ENTITY": "Swaziland",
+      "GEC": "WZ",
+      "ISO_3166_2A": "SZ",
+      "ISO_3166_3A": "SWZ",
+      "ISO_3166_3N": 748,
+      "STANAG": "SWZ",
+      "INTERNET": ".sz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Sweden",
+      "GEC": "SW",
+      "ISO_3166_2A": "SE",
+      "ISO_3166_3A": "SWE",
+      "ISO_3166_3N": 752,
+      "STANAG": "SWE",
+      "INTERNET": ".se",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Switzerland",
+      "GEC": "SZ",
+      "ISO_3166_2A": "CH",
+      "ISO_3166_3A": "CHE",
+      "ISO_3166_3N": 756,
+      "STANAG": "CHE",
+      "INTERNET": ".ch",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Syria",
+      "GEC": "SY",
+      "ISO_3166_2A": "SY",
+      "ISO_3166_3A": "SYR",
+      "ISO_3166_3N": 760,
+      "STANAG": "SYR",
+      "INTERNET": ".sy",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Taiwan",
+      "GEC": "TW",
+      "ISO_3166_2A": "TW",
+      "ISO_3166_3A": "TWN",
+      "ISO_3166_3N": 158,
+      "STANAG": "TWN",
+      "INTERNET": ".tw",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tajikistan",
+      "GEC": "TI",
+      "ISO_3166_2A": "TJ",
+      "ISO_3166_3A": "TJK",
+      "ISO_3166_3N": 762,
+      "STANAG": "TJK",
+      "INTERNET": ".tj",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tanzania",
+      "GEC": "TZ",
+      "ISO_3166_2A": "TZ",
+      "ISO_3166_3A": "TZA",
+      "ISO_3166_3N": 834,
+      "STANAG": "TZA",
+      "INTERNET": ".tz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Thailand",
+      "GEC": "TH",
+      "ISO_3166_2A": "TH",
+      "ISO_3166_3A": "THA",
+      "ISO_3166_3N": 764,
+      "STANAG": "THA",
+      "INTERNET": ".th",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Timor-Leste",
+      "GEC": "TT",
+      "ISO_3166_2A": "TL",
+      "ISO_3166_3A": "TLS",
+      "ISO_3166_3N": 626,
+      "STANAG": "TLS",
+      "INTERNET": ".tl",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Togo",
+      "GEC": "TO",
+      "ISO_3166_2A": "TG",
+      "ISO_3166_3A": "TGO",
+      "ISO_3166_3N": 768,
+      "STANAG": "TGO",
+      "INTERNET": ".tg",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tokelau",
+      "GEC": "TL",
+      "ISO_3166_2A": "TK",
+      "ISO_3166_3A": "TKL",
+      "ISO_3166_3N": 772,
+      "STANAG": "TKL",
+      "INTERNET": ".tk",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tonga",
+      "GEC": "TN",
+      "ISO_3166_2A": "TO",
+      "ISO_3166_3A": "TON",
+      "ISO_3166_3N": 776,
+      "STANAG": "TON",
+      "INTERNET": ".to",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Trinidad and Tobago",
+      "GEC": "TD",
+      "ISO_3166_2A": "TT",
+      "ISO_3166_3A": "TTO",
+      "ISO_3166_3N": 780,
+      "STANAG": "TTO",
+      "INTERNET": ".tt",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tromelin Island",
+      "GEC": "TE",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+    },
+    {
+      "ENTITY": "Tunisia",
+      "GEC": "TS",
+      "ISO_3166_2A": "TN",
+      "ISO_3166_3A": "TUN",
+      "ISO_3166_3N": 788,
+      "STANAG": "TUN",
+      "INTERNET": ".tn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Turkey",
+      "GEC": "TU",
+      "ISO_3166_2A": "TR",
+      "ISO_3166_3A": "TUR",
+      "ISO_3166_3N": 792,
+      "STANAG": "TUR",
+      "INTERNET": ".tr",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Turkmenistan",
+      "GEC": "TX",
+      "ISO_3166_2A": "TM",
+      "ISO_3166_3A": "TKM",
+      "ISO_3166_3N": 795,
+      "STANAG": "TKM",
+      "INTERNET": ".tm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Turks and Caicos Islands",
+      "GEC": "TK",
+      "ISO_3166_2A": "TC",
+      "ISO_3166_3A": "TCA",
+      "ISO_3166_3N": 796,
+      "STANAG": "TCA",
+      "INTERNET": ".tc",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Tuvalu",
+      "GEC": "TV",
+      "ISO_3166_2A": "TV",
+      "ISO_3166_3A": "TUV",
+      "ISO_3166_3N": 798,
+      "STANAG": "TUV",
+      "INTERNET": ".tv",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Uganda",
+      "GEC": "UG",
+      "ISO_3166_2A": "UG",
+      "ISO_3166_3A": "UGA",
+      "ISO_3166_3N": 800,
+      "STANAG": "UGA",
+      "INTERNET": ".ug",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Ukraine",
+      "GEC": "UP",
+      "ISO_3166_2A": "UA",
+      "ISO_3166_3A": "UKR",
+      "ISO_3166_3N": 804,
+      "STANAG": "UKR",
+      "INTERNET": ".ua",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "United Arab Emirates",
+      "GEC": "AE",
+      "ISO_3166_2A": "AE",
+      "ISO_3166_3A": "ARE",
+      "ISO_3166_3N": 784,
+      "STANAG": "ARE",
+      "INTERNET": ".ae",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "United Kingdom",
+      "GEC": "UK",
+      "ISO_3166_2A": "GB",
+      "ISO_3166_3A": "GBR",
+      "ISO_3166_3N": 826,
+      "STANAG": "GBR",
+      "INTERNET": ".uk",
+      "COMMENT": "for its internal communications, the European Union recommends the use of the code UK in lieu of the ISO 3166-2 code of GB"
+    },
+    {
+      "ENTITY": "United States",
+      "GEC": "US",
+      "ISO_3166_2A": "US",
+      "ISO_3166_3A": "USA",
+      "ISO_3166_3N": 840,
+      "STANAG": "USA",
+      "INTERNET": ".us",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "United States Minor Outlying Islands",
+      "GEC": "-",
+      "ISO_3166_2A": "UM",
+      "ISO_3166_3A": "UMI",
+      "ISO_3166_3N": 581,
+      "STANAG": "-",
+      "INTERNET": ".um",
+      "COMMENT": "ISO includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, Wake Island"
+    },
+    {
+      "ENTITY": "Uruguay",
+      "GEC": "UY",
+      "ISO_3166_2A": "UY",
+      "ISO_3166_3A": "URY",
+      "ISO_3166_3N": 858,
+      "STANAG": "URY",
+      "INTERNET": ".uy",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Uzbekistan",
+      "GEC": "UZ",
+      "ISO_3166_2A": "UZ",
+      "ISO_3166_3A": "UZB",
+      "ISO_3166_3N": 860,
+      "STANAG": "UZB",
+      "INTERNET": ".uz",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Vanuatu",
+      "GEC": "NH",
+      "ISO_3166_2A": "VU",
+      "ISO_3166_3A": "VUT",
+      "ISO_3166_3N": 548,
+      "STANAG": "VUT",
+      "INTERNET": ".vu",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Venezuela",
+      "GEC": "VE",
+      "ISO_3166_2A": "VE",
+      "ISO_3166_3A": "VEN",
+      "ISO_3166_3N": 862,
+      "STANAG": "VEN",
+      "INTERNET": ".ve",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Vietnam",
+      "GEC": "VM",
+      "ISO_3166_2A": "VN",
+      "ISO_3166_3A": "VNM",
+      "ISO_3166_3N": 704,
+      "STANAG": "VNM",
+      "INTERNET": ".vn",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Virgin Islands",
+      "GEC": "VQ",
+      "ISO_3166_2A": "VI",
+      "ISO_3166_3A": "VIR",
+      "ISO_3166_3N": 850,
+      "STANAG": "VIR",
+      "INTERNET": ".vi",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Virgin Islands (UK)",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": ".vg",
+      "COMMENT": "see British Virgin Islands"
+    },
+    {
+      "ENTITY": "Virgin Islands (US)",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": ".vi",
+      "COMMENT": "see Virgin Islands"
+    },
+    {
+      "ENTITY": "Wake Island",
+      "GEC": "WQ",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "UMI",
+      "INTERNET": "-",
+      "COMMENT": "ISO includes with the US Minor Outlying Islands"
+    },
+    {
+      "ENTITY": "Wallis and Futuna",
+      "GEC": "WF",
+      "ISO_3166_2A": "WF",
+      "ISO_3166_3A": "WLF",
+      "ISO_3166_3N": 876,
+      "STANAG": "WLF",
+      "INTERNET": ".wf",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "West Bank",
+      "GEC": "WE",
+      "ISO_3166_2A": "PS",
+      "ISO_3166_3A": "PSE",
+      "ISO_3166_3N": 275,
+      "STANAG": "PSE",
+      "INTERNET": ".ps",
+      "COMMENT": "ISO identifies as Occupied Palestinian Territory"
+    },
+    {
+      "ENTITY": "Western Sahara",
+      "GEC": "WI",
+      "ISO_3166_2A": "EH",
+      "ISO_3166_3A": "ESH",
+      "ISO_3166_3N": 732,
+      "STANAG": "ESH",
+      "INTERNET": ".eh",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Western Samoa",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": ".ws",
+      "COMMENT": "see Samoa"
+    },
+    {
+      "ENTITY": "World",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "the Factbook uses the W data code from DIAM 65-18 Geopolitical Data Elements and Related Features, Data Standard No. 3, December 1994, published by the Defense Intelligence Agency"
+    },
+    {
+      "ENTITY": "Yemen",
+      "GEC": "YM",
+      "ISO_3166_2A": "YE",
+      "ISO_3166_3A": "YEM",
+      "ISO_3166_3N": 887,
+      "STANAG": "YEM",
+      "INTERNET": ".ye",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Zaire",
+      "GEC": "-",
+      "ISO_3166_2A": "-",
+      "ISO_3166_3A": "-",
+      "ISO_3166_3N": "-",
+      "STANAG": "-",
+      "INTERNET": "-",
+      "COMMENT": "see Democratic Republic of the Congo"
+    },
+    {
+      "ENTITY": "Zambia",
+      "GEC": "ZA",
+      "ISO_3166_2A": "ZM",
+      "ISO_3166_3A": "ZMB",
+      "ISO_3166_3N": 894,
+      "STANAG": "ZMB",
+      "INTERNET": ".zm",
+      "COMMENT": ""
+    },
+    {
+      "ENTITY": "Zimbabwe",
+      "GEC": "ZI",
+      "ISO_3166_2A": "ZW",
+      "ISO_3166_3A": "ZWE",
+      "ISO_3166_3N": 716,
+      "STANAG": "ZWE",
+      "INTERNET": ".zw",
+      "COMMENT": ""
+    }
+  ]
+}

@@ -2,6 +2,10 @@
 
 var fs = require("fs");
 var ctry = require('./template.js', { env: 'NODEJS'});
+var utIssue = require('./utIssue.js', { env: 'NODEJS'});
+var utMilsec = require('./utMilsec.js', { env: 'NODEJS'});
+var utTransport = require('./utTransport.js', { env: 'NODEJS'});
+var utTerror = require('./utTerror.js', { env: 'NODEJS'});
 var template = '';
 var data = '';
 var dataExpurge = '';
@@ -118,142 +122,33 @@ var traiteTemplate = (gec) => {
    //console.log(template);
    fs.writeFile('./json/'+gec+'.json',JSON.stringify(template, null, '\t'), (err) => {
  		if (err) throw err;
- 				console.log('write file '+gec+'.json');
+ 				// console.log('write file '+gec+'.json');
  	});
 }
 
 var trtIssues = (liste) => {
-   var ref = '';
-   liste.forEach((item, idx) => {
-      if (item.startsWith('Disputes - international:')) template.issues.dispute = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Refugees and internally displaced persons:')) template.issues.refugee = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('stateless persons:')) template.issues.stateless = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Illicit drugs:')) template.issues.drugs = liste[idx+1].split('<')[0].trim();
-   });
+   // verified on the 11-05-2018
+   utIssue.ttIssues(liste, template, function(res) {
+      template = res;
+   })
 }
 
 var trtTerror = (liste) => {
-   var ref = '';
-   liste.forEach((item, idx) => {
-      if (item.startsWith('Terrorist groups - home based:')) {
-         ref = 'expend';
-         var lst = new Array();
-         var nb = idx+1;
-         while (nb < liste.length && !liste[nb].startsWith('Terrorist groups - foreign based:')) {
-            lst.push(liste[nb].split('<')[0].trim())
-            nb+=1
-         }
-         template.terror.home = lst;
-      }
-      if (item.startsWith('Terrorist groups - foreign based:')) {
-         ref = 'expend';
-         var lst = new Array();
-         var nb = idx+1;
-         //while (!liste[nb].startsWith('Show</')) {
-         while(nb < liste.length) {
-            lst.push(liste[nb].split('<')[0].trim())
-            nb+=1
-         }
-         template.terror.foreign = lst;
-      }
+   utTerror.ttTerror(liste, template, function(res) {
+      template = res;
    });
 }
 
 var trtMilsec = (liste) => {
-   var ref = '';
-   liste.forEach((item, idx) => {
-      if (item.startsWith('Military expenditures:')) {
-         ref = 'expend';
-         var lst = new Array();
-         var nb = idx+1;
-         while (liste[nb].indexOf(':') == -1) {
-            lst.push(liste[nb].split('<')[0].trim())
-            nb+=1
-         }
-         template.milsec.mil_expend.histo = lst;
-      }
-      if (item.startsWith('country comparison to the world:') && ref == 'expend') {
-          template.milsec.mil_expend.rank = liste[idx+1].split('<')[0].trim();
-       }
-      if (item.startsWith('Military branches:')) template.milsec.branches = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Military service age and obligation:')) template.milsec.obligation = liste[idx+1].split('<')[0].trim();
+   // verified on the 11-05-2018
+   utMilsec.ttMilsec(liste, template, function(res) {
+      template = res;
    });
 }
 
 var trtTrans = (liste) => {
-   var ref = '';
-   liste.forEach((item, idx) => {
-      if (item.startsWith('number of registered air carriers:')) template.transport.air_trans.carriers = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('inventory of registered aircraft operated by air carriers:')) template.transport.air_trans.aircraft_carriers = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('annual passenger traffic on registered air carriers:')) template.transport.air_trans.passenger = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('annual freight traffic on registered air carriers:')) template.transport.air_trans.freight = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Civil aircraft registration country code prefix:')) template.transport.country_code = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Airports:')) {
-         template.transport.airports.nb = liste[idx+1].split('<')[0].trim();
-         template.transport.airports.rank = liste[idx+3].split('<')[0].trim();
-      }
-      if (item.startsWith('Airports - with paved runways:')) {
-         template.transport.airport_paved.total = liste[idx+2].split('<')[0].trim();
-         var nb = idx+3;
-         var lst = new Array();
-         while(nb < liste.length && !liste[nb].startsWith('Airports - with unpaved runways:')) {
-            lst.push(liste[nb].split('<')[0].trim());
-            nb+=1
-         }
-         template.transport.airport_paved.list = lst;
-      }
-      if (item.startsWith('Airports - with unpaved runways:')) {
-         template.transport.airport_unpaved.total = liste[idx+2].split('<')[0].trim();
-         var nb = idx+3;
-         var lst = new Array();
-         while(nb < liste.length && !liste[nb].startsWith('Heliports:') && !liste[nb].startsWith('total:')) {
-            lst.push(liste[nb].split('<')[0].trim());
-            nb+=1
-         }
-         template.transport.airport_unpaved.list = lst;
-      }
-      if (item.startsWith('Heliports:')) template.transport.heliport = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Pipelines:')) template.transport.pipeline = liste[idx+1].split('<')[0].trim();
-      if (item.startsWith('Railways:'))  {
-         template.transport.railways.total = liste[idx+2].split('<')[0].trim();
-         template.transport.railways.standard = liste[idx+4].split('<')[0].trim();
-         template.transport.railways.rank = liste[idx+6].split('<')[0].trim();
-      }
-      if (item.startsWith('Roadways:'))  {
-         if (liste[idx+1].startsWith('note:'))
-            template.transport.roadways.total = liste[idx+2].split('<')[0].trim();
-         else
-         {
-            template.transport.roadways.total = liste[idx+2].split('<')[0].trim();
-            if (liste[idx+3].startsWith('country comparison to the world:'))
-               template.transport.roadways.rank = liste[idx+4].split('<')[0].trim();
-            else {
-               template.transport.roadways.paved = liste[idx+4].split('<')[0].trim();
-               if (liste[idx+5].startsWith('unpaved:')) {
-                  template.transport.roadways.unpaved = liste[idx+6].split('<')[0].trim();
-                  template.transport.roadways.rank = liste[idx+8].split('<')[0].trim();
-               }
-               else
-                  template.transport.roadways.rank = liste[idx+6].split('<')[0].trim();
-            }
-         }
-      }
-      if (item.startsWith('Waterways:'))  {
-         if (liste[idx+2] == undefined )
-            template.transport.waterways.total = liste[idx+1].split('<')[0].trim();
-         else {
-            template.transport.waterways.total = liste[idx+1].split('<')[0].trim();
-            template.transport.waterways.rank = liste[idx+3].split('<')[0].trim();
-         }
-      }
-      if (item.startsWith('Merchant marine:'))  {
-         template.transport.merch_marine.total = liste[idx+2].split('<')[0].trim();
-         template.transport.merch_marine.type = liste[idx+4].split('<')[0].trim();
-         template.transport.merch_marine.rank = liste[idx+6].split('<')[0].trim();
-      }
-      if (item.startsWith('major seaport(s):'))  {
-         template.transport.ports.seaport = liste[idx+1].split('<')[0].trim();
-      }
+   utTransport.ttTransport(liste, template, function(res) {
+      template = res;
    });
 }
 
@@ -971,15 +866,19 @@ var trtPeople = (liste) => {
             template.peop_soc.drink_water.imp.rural = liste[nb].split('<')[0].split(': ')[1].trim();
             nb+=1
          }
-         template.peop_soc.drink_water.imp.total = liste[nb].split('<')[0].split(': ')[1].trim();
-         nb+=2
+         if (liste[nb].startsWith('total:')) {
+            template.peop_soc.drink_water.imp.total = liste[nb].split('<')[0].split(': ')[1].trim();
+            nb+=1;
+         }
+         nb+=1
          template.peop_soc.drink_water.unimp.urban = liste[nb].split('<')[0].split(': ')[1].trim();
          nb+=1
          if (liste[nb].startsWith('rural:')) {
             template.peop_soc.drink_water.unimp.rural = liste[nb].split('<')[0].split(': ')[1].trim();
             nb+=1
          }
-         template.peop_soc.drink_water.unimp.total = liste[nb].split('<')[0].split(': ')[1].trim();
+         if (liste[nb].startsWith('total:'))
+            template.peop_soc.drink_water.unimp.total = liste[nb].split('<')[0].split(': ')[1].trim();
       }
       if (item.startsWith("Sanitation facility access:")) {
          template.peop_soc.sanitation.imp.urban = liste[idx+2].split('<')[0].split(': ')[1].trim();
@@ -1145,4 +1044,4 @@ var liste = ['af', 'ax', 'al', 'ag', 'aq', 'an', 'ao', 'av', 'ay', 'ac', 'ar', '
 liste.forEach((p) => {
    launch('./ctry/', p);
 })
-//launch('./ctry/', 'ay');
+//launch('./ctry/', 'af');

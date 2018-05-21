@@ -19,6 +19,7 @@ module.exports =
          "total":"",
          "land":"",
          "water":"",
+         "note" :"",
          "position":""
       },
       "area_com":"",
@@ -82,9 +83,14 @@ module.exports =
          ]
       },
       "religion":"",
-      "age":[
-
-      ],
+      //"age":[],
+      "age": {
+        "a14": "",
+        "a24": "",
+        "a54": "",
+        "a64": "",
+        "over":""
+      },
       "dependency":{
          "total":"",
          "youth":"",
@@ -119,9 +125,16 @@ module.exports =
          "rate":""
       },
       "urban_areas":"",
-      "sex":[
-
-      ],
+      //"sex":[],
+      "sex": {
+        "birth": "",
+        "a14": "",
+        "a24": "",
+        "a54": "",
+        "a64": "",
+        "over":"",
+        "total":""
+      },
       "mother_first_birth":"",
       "mother_death":{
          "rate":"",
@@ -187,6 +200,15 @@ module.exports =
          "rate":"",
          "rank":""
       },
+      "infect": {
+        "risk":"",
+        "food": "",
+        "vector": "",
+        "water": "",
+        "dust": "",
+        "resp": "",
+        "animal": ""
+      },
       "underweight":{
          "rate":"",
          "rank":""
@@ -211,7 +233,8 @@ module.exports =
          "male":"",
          "female":"",
          "rank":""
-      }
+      },
+      "people_note": ""
    },
    "government":{
       "country_name":{
@@ -220,6 +243,7 @@ module.exports =
          "loc_long":"",
          "loc_short":"",
          "former":"",
+         "abbrev": "",
          "etymology":""
       },
       "gov_type":"",
@@ -450,9 +474,11 @@ module.exports =
          "rank":""
       },
       "foreign_invest":{
-         "histo":[
-
-         ],
+         "histo":[],
+         "rank":""
+      },
+      "foreign_abroad":{
+         "histo":[],
          "rank":""
       },
       "exch_rate":[
